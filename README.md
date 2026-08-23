@@ -1,8 +1,8 @@
 ### 🇪🇸 Hola, soy Miguel Ángel Huerta · 🇬🇧 Hi, I'm Miguel Angel Huerta 👋
 
-🇪🇸 Ingeniero de software con más de una década trabajando en el mundo del dato, desde reporting operacional y data warehousing hasta ciencia de datos, machine learning y, más recientemente, LLMs. Antes de dedicarme a los datos, pasé unos cuantos años en arquitectura de software, integración empresarial y middleware (SOA, ESBs, servicios web, BPM). Me apasiona el open source, Linux y todo lo que se pueda automatizar con una Raspberry Pi. Y sí, también el fútbol. ¡Hala Madrid!
+🇪🇸 Ingeniero de software desde 2012 enfocado en el mundo del dato y la inteligencia artificial, desde reporting operacional y data warehousing hasta ciencia de datos, machine learning y, más recientemente, LLMs y agentes IA. Antes de dedicarme a los datos, pasé unos cuantos años en arquitectura de software, integración empresarial y middleware (SOA, ESBs, servicios web, BPM). Me apasiona el open source, Linux y todo lo que se pueda automatizar con una Raspberry Pi.
 
-🇬🇧 Software engineer with more than a decade in the data space, from operational reporting and data warehousing to data science, machine learning and, more recently, LLMs. Before focusing on data I spent several years in software architecture, enterprise integration and middleware (SOA, ESBs, web services, BPM). I love open source, Linux and anything you can automate with a Raspberry Pi. And yes, football too. Hala Madrid!
+🇬🇧 Software engineer since 2012 focused in the data space and artificial intelligence, from operational reporting and data warehousing to data science, machine learning and, more recently, LLMs and AI agents. Before focusing on data I spent several years in software architecture, enterprise integration and middleware (SOA, ESBs, web services, BPM). I love open source, Linux and anything you can automate with a Raspberry Pi.
 
 **Contacto / Contact:**
 
