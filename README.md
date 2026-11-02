@@ -59,6 +59,10 @@
   🇪🇸 Experimentos con LLMs.  
   🇬🇧 LLM experiments.
 
+  - **[MCP](https://github.com/mahdsip/home-mcp)**  
+  🇪🇸 MCP server para proporcionar a los agentes accesos a servicios de software abierto habituales en casa como prometheus, nextcloud, homeassistant o plex.  
+  🇬🇧 MCP server to provide agents acccess to the common open source sevices available at home like prometheus, nextcloud, homeassitant or plex.
+
 #### 🔌 Hardware, IoT y automatización · Hardware, IoT & automation
 
 - **[Tiki-robot](https://github.com/mahdsip/Tiki-robot)** · *C / Python*  
